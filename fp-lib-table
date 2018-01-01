@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name w_conn_av)(type Legacy)(uri /Users/charlie/Downloads/mod_conn_av/w_conn_av.mod)(options "")(descr ""))
+  (lib (name NQR010A0X4Z)(type KiCad)(uri "$(KIPRJMOD)/NQR010A0X4Z.pretty")(options "")(descr ""))
+  (lib (name JAMMA)(type KiCad)(uri "$(KIPRJMOD)/JAMMA.pretty")(options "")(descr ""))
+  (lib (name DSub15Fat)(type KiCad)(uri "$(KIPRJMOD)/DSub15Fat.pretty")(options "")(descr ""))
+)
