@@ -3,4 +3,5 @@
   (lib (name NQR010A0X4Z)(type KiCad)(uri "$(KIPRJMOD)/NQR010A0X4Z.pretty")(options "")(descr ""))
   (lib (name JAMMA)(type KiCad)(uri "$(KIPRJMOD)/JAMMA.pretty")(options "")(descr ""))
   (lib (name DSub15Fat)(type KiCad)(uri "$(KIPRJMOD)/DSub15Fat.pretty")(options "")(descr ""))
+  (lib (name ESP32-footprints-Lib)(type KiCad)(uri /Users/charlie/Documents/Kicad/Libraries/ESP32-Footprints/ESP32-footprints-Lib.pretty)(options "")(descr ""))
 )

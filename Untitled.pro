@@ -1,4 +1,4 @@
-update=Saturday, 22 July 2017 'pmt' 18:40:38
+update=Monday, 01 January 2018 'pmt' 12:57:08
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/Users/charlie/Downloads/mod_conn_av
+LibDir=/Users/charlie/Downloads/mod_conn_av;/Users/charlie/Documents/Kicad/Libraries/ESP32-Footprints
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,3 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=ESP32-footprints-Shem-Lib
