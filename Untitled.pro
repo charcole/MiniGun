@@ -1,4 +1,4 @@
-update=Wednesday, 03 January 2018 'pmt' 21:21:51
+update=Sunday, 07 January 2018 'amt' 10:16:33
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=ESP32-footprints-Shem-Lib
 LibName31=/Users/charlie/Documents/Kicad/Libraries/kicad-schlib-master/library/TexasInstruments
+LibName32=switches
